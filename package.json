@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-aiberm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node for Aiberm AI models",
   "license": "MIT",
   "homepage": "https://aiberm.com",
